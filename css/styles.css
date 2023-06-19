@@ -651,6 +651,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
         letter-spacing: 0.02em;
         color: var(--white-title-color);
         margin-bottom: 16px;
+        padding-left: 60px;
 }
 
 .email-form {
@@ -658,7 +659,9 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
         gap: 24px;
 }
 
-.email-form-label {}
+.email-form-label {
+        padding-left: 60px;
+}
 
 .input-email {
         border: 1px solid var(--white-title-color);
@@ -672,7 +675,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
                 letter-spacing: 0.04em;
                 padding-left: 16px;
                 color: var(--white-title-color);
-}
+                }
 
 .input-email::placeholder {
         color: var(--white-title-color);
