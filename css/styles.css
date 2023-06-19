@@ -399,6 +399,7 @@ gap: 40px;
         line-height: 1.11;
         color: #2e2f42;
         margin-bottom: 72px;
+        text-align: center;
 }
 
 .list-customers {
@@ -435,7 +436,7 @@ gap: 40px;
 
 /**------------------- PORTFOLIO -------------- */
 
-/*! --------------PORTFOLIO HEADER---------------- */
+/* * ! --------------PORTFOLIO HEADER---------------- */ */
 
 .hero-portfolio {
         padding-top: 96px; 
