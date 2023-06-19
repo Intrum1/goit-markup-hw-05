@@ -891,7 +891,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .label-checkbox a {
-        color: var(--text-logo);
+        color: var(--logo-color);
         text-decoration: underline;
 }
 
@@ -918,9 +918,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .svg-checkbox {
 
 }
-.check-link {
-        color: var(--logo-color);
-}
+
 
 .modal-btn {
         display: block;
