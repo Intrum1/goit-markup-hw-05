@@ -88,8 +88,6 @@ align-items: center;
 display: flex;
 align-items: center;
 gap: 40px;
-padding-top: 24px;
-padding-bottom: 24px;
 flex-grow: 1;
 
 }
@@ -98,8 +96,6 @@ flex-grow: 1;
 font-style: normal;
 display: flex;
 align-items: center;
-padding-top: 24px;
-padding-bottom: 24px;
 margin-left: auto
 }
 
@@ -361,6 +357,7 @@ gap: 40px;
         letter-spacing: 0.02em;
         color: var(--hover-color);
         text-align: center;
+        margin-bottom: 8px;
 }
 
 
